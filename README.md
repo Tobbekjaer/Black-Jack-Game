@@ -1,4 +1,6 @@
-### Fun Black Jack Game build in HTML, CSS and JavaScript!
+### Black Jack Game
+
+Fun Black Jack Game build in HTML, CSS and JavaScript!
 
 To access the deployed app, visit [Black Jack Game](https://66ceee1748d49300084a153c--tobys-black-jack-games.netlify.app/)! 
 
